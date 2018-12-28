@@ -91,14 +91,14 @@
     "workbox-build": "^3.5.0"
   },
   "devDependencies": {
-    "graphql": "^14.0.2",
-    "graphql-tag": "^2.9.2",
-    "i18next": "^12.1.0",
-    "prop-types": "^15.6.2",
-    "react": "^16.6.3",
+    "graphql": "14.0.2",
+    "graphql-tag": "2.10.0",
+    "i18next": "12.1.0",
+    "prop-types": "15.6.2",
+    "react": "16.6.3",
     "react-apollo": "2.3.2",
-    "react-dom": "^16.6.3",
-    "react-router-dom": "^4.4.0-beta.6"
+    "react-dom": "16.6.3",
+    "react-router-dom": "4.4.0-beta.6"
   },
   "peerDependencies": {
     "graphql": "^14.0.2",
